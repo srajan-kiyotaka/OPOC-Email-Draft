@@ -3,6 +3,7 @@
 <h3>Welcoming you to the new journey to endeavour, contribute, learn, hustle.💪💪</h3>
 <h3>OPOC- Over Powered Official Community</h3>
 <strong><em>We believe that if you want to make an impact then you really need like-minded people. Hence we started with OPOC.</em></strong>
+<br>
 <strong>So in case, you want your friends to be a part of the community send them this form.</strong>
 <br>
 <a href="https://forms.gle/uDaEYpGM8zBDL3Ly6" target="blank"><img src="https://img.icons8.com/color/2x/google-forms.png" alt="Google Form" height="55" width="55"/></a>
