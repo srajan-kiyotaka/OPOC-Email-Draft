@@ -29,9 +29,9 @@
 <br>
 <strong>To Know Us Better!!</strong>
 <br>
-<a href="https://www.youtube.com/channel/UCeOtffnJrIKsdtyY-FpFl-A" target="blank"><img src=https://github.com/srajan-kiyotaka/OPOC-Email-Draft/blob/main/Resource/youtube.png?raw=true" alt="OPOC YouTube" height="64" width="64" /></a>
+<a href="https://www.youtube.com/watch?v=aj99_Y9wDQw&ab_channel=OPOC" target="blank"><img src=https://github.com/srajan-kiyotaka/OPOC-Email-Draft/blob/main/Resource/youtube.png?raw=true" alt="OPOC YouTube" height="64" width="64" /></a>
 <br>
 Entry No. OPOC-01-<<Case No>>-Let'sGoo!
 <br>
 <video width="500px" height="500px" controls="controls"/> 
-<source src="https://cdnl.iconscout.com/lottie/premium/thumb/system-statistic-information-video-3752709-3128169.mp4" type="video/mp4">
+<source src="https://www.youtube.com/watch?v=aj99_Y9wDQw&ab_channel=OPOC" type="video/mp4">
