@@ -9,7 +9,7 @@
 <br>
 <strong>Please Subscribe To Our You Tube Channel!!</strong>
 <br>
-<a href="https://www.youtube.com/channel/UCeOtffnJrIKsdtyY-FpFl-A" target="blank"><img src="https://cdn-icons.flaticon.com/png/512/440/premium/440808.png?token=exp=1644672832~hmac=f5a639fcb09c72e418ad6626c4a8a262" alt="OPOC YouTube" height="64" width="64" /></a>
+<a href="https://www.youtube.com/channel/UCeOtffnJrIKsdtyY-FpFl-A" target="blank"><img src="https://github.com/srajan-kiyotaka/OPOC-Email-Draft/blob/main/Resource/computer.png?raw=true" alt="OPOC YouTube" height="64" width="64" /></a>
 <br>
 <strong>Follow and Contribute in Our GitHub!!</strong>
 <br>
@@ -27,11 +27,11 @@
 <br>
 <img src="https://github.com/srajan-kiyotaka/OPOC-First-Git-GitHub-Session/blob/update/OPOC%20banner.png?raw=true" width="300"/>
 <br>
-Entry No. OPOC-01-<<Case No>>-Let'sGoo!
-<br>
 <strong>To Know Us Better!!</strong>
 <br>
-<a href="https://www.youtube.com/channel/UCeOtffnJrIKsdtyY-FpFl-A" target="blank"><img src="https://cdn-icons.flaticon.com/png/512/2274/premium/2274336.png?token=exp=1644672944~hmac=d1d5206c37a289f04bbe3733d23b3311" alt="OPOC YouTube" height="64" width="64" /></a>
+<a href="https://www.youtube.com/channel/UCeOtffnJrIKsdtyY-FpFl-A" target="blank"><img src=https://github.com/srajan-kiyotaka/OPOC-Email-Draft/blob/main/Resource/youtube.png?raw=true" alt="OPOC YouTube" height="64" width="64" /></a>
+<br>
+Entry No. OPOC-01-<<Case No>>-Let'sGoo!
 <br>
 <video width="500px" height="500px" controls="controls"/> 
 <source src="https://cdnl.iconscout.com/lottie/premium/thumb/system-statistic-information-video-3752709-3128169.mp4" type="video/mp4">
