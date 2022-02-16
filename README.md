@@ -16,7 +16,7 @@
 <br>
 <a href="https://github.com/OPOC-Team" target="blank"><img src="https://img.icons8.com/glyph-neue/344/github.png" alt="OPOC GitHub" height="64" width="64" /></a>
 <br>
-<strong>Connect and intrect with other OPOC Member!!</strong>
+<strong>Connect and Intrect with other OPOC Member!!</strong>
 <br>
 <strong>Join Our WhatsApp Group!!</strong>
 <br>
