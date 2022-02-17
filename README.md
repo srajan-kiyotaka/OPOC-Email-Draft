@@ -20,11 +20,11 @@
 <br>
 <strong>Join Our WhatsApp Group!!</strong>
 <br>
-<a href="https://chat.whatsapp.com/Fkxa0v4bPkP4dEbC5ukJni" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/1383/1383269.png" alt="OPOC GitHub" height="64" width="64" /></a>
+<a href="https://chat.whatsapp.com/Fkxa0v4bPkP4dEbC5ukJni" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/1383/1383269.png" alt="OPOC WhatsApp" height="64" width="64" /></a>
 <br>
 <strong>Join Our Discord Server!!</strong>
 <br>
-<a href="https://discord.gg/DPVetSXD4q" target="blank"><img src="https://img.icons8.com/clouds/344/discord-logo.png" alt="OPOC GitHub" height="72" width="72" /></a>
+<a href="https://discord.gg/DPVetSXD4q" target="blank"><img src="https://img.icons8.com/clouds/344/discord-logo.png" alt="OPOC Discord" height="72" width="72" /></a>
 <br>
 <img src="https://github.com/srajan-kiyotaka/OPOC-First-Git-GitHub-Session/blob/update/OPOC%20banner.png?raw=true" width="300"/>
 <br>
