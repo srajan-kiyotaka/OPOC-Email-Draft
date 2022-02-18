@@ -30,4 +30,4 @@
 <br>
 <strong>To Know Us Better!!</strong>
 <br>
-<a href="https://www.youtube.com/watch?v=aj99_Y9wDQw&ab_channel=OPOC" target="blank"><img src=https://github.com/srajan-kiyotaka/OPOC-Email-Draft/blob/main/Resource/youtube.png?raw=true" alt="OPOC YouTube" height="64" width="64" /></a>
+<a href="https://www.youtube.com/watch?v=aj99_Y9wDQw&ab_channel=OPOC" target="blank"><img src=https://github.com/srajan-kiyotaka/OPOC-Email-Draft/blob/main/Resource/youtube.png?raw=true" alt="OPOC Teaser" height="64" width="64" /></a>
